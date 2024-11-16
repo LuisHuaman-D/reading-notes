@@ -11,3 +11,8 @@ emocionado por los conocimientos que obtendré en este curso.
 ## Mis notas de lectura:
 * [mindset.md](./mindset.md)
 
+## Conocimientos
+* Desarrollo web con wordpress
+* Desarrollo ecommerce con wordpress + woocommerce
+* Html y Css
+* Soporte técnico informático  
