@@ -6,7 +6,7 @@ emocionado por los conocimientos que obtendré en este curso.
 
 ## Información de contacto:
 * [Github](https://github.com/LuisHuaman-D)
-* [Correo](mailto.luishuamandg@gmail.com)
+* [Correo](mailto:luishuamandg@gmail.com)
 
 ## Mis notas de lectura:
 * [mindset.md](./mindset.md)
