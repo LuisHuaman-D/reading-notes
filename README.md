@@ -1,46 +1,13 @@
-# Titulo principal
-## otro titulo 
-### otro titulo
-#### otro titulo
-##### otro titulo
-###### otro titulo
+# Luis Huaman
+![luis](https://avatars.githubusercontent.com/u/188005037?v=4)
 
-- *text en cursiva*
-- **text en bold**
-- ***text en bold y cursiva***
+¡Hola! Soy Luis actualmente llevo mi primer curso básico de programación en **ENTER TECH SCHOOL** estoy 
+emocionado por los conocimientos que obtendré en este curso.  
 
-* Lista de tareas
-  * item1
-  * item2
-  * item3
-* Otro elemento de la lista
+## Información de contacto:
+* [Github](https://github.com/LuisHuaman-D)
+* [Correo](mail.luishuamandg@gmail.com)
 
-1. Luis
-2. Bruno
-3. David
-4. Pedro
+## Mis notas de lectura:
+* [mindset.md](./mindset.md)
 
-[LUIS](https://aplisof.com)
-
-![luis](https://elsumario.com/wp-content/uploads/2022/07/El-Sumario-Conoce-algunos-datos-interesantes-sobre-el-oso-malayo.jpg)
-
-- `HTML y CSS`
-
-```html
-<html>
-  <head>
-    <title>Titulo de la web</title>
-  </head>
-  <body>
-    <h1>Hola mundo</h1>
-  </body>
-</html>
-```
-
-```js
-const nombre = "Linder";
-
-if (nombre === "Linder") {
-  console.log("Hola " + nombre);
-}
-```
