@@ -12,3 +12,5 @@ Vamos a imaginar que el html es una persona desnuda, bien el CSS es el responsab
 
 Escribe un ejemplo de una regla CSS que daría texto rojo a todos los elementos <p>.
 Bien imagina que tienes tu archivo html y a los parrafos quieres especicarle un color entonces puedes utilizar un archivo externo (style.css) y decirle que p {color: red;} con eso se aplica a todos tus parrafos el color rojo.
+
+[Readme](../README.md)

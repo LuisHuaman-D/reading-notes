@@ -13,4 +13,9 @@ Al igual que en HTML, también podrás enlazar a puntos ancla de la página actu
 Siempre será preferible usar dos asteriscos 
 
 ## ¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?
-Para agregar listas no ordenadas en Markdown debes agregar un guion -, un signo más + o un asterisco * delante de los elementos de la lista:
+Para agregar listas no ordenadas en Markdown debes agregar un guion -, un signo más + o un asterisco * delante de los elementos de la lista
+
+
+[Readme](../README.md)
+
+

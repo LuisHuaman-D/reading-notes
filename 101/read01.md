@@ -21,3 +21,6 @@ Los protocolos definen cómo los clientes y servidores se comunican.
 - **DNS (Sistema de nombres de dominio)**: Traduce nombres de dominio como `google.com` a direcciones IP para localizar servidores.
 
 Juntos, estos elementos forman el ecosistema que permite la experiencia web moderna.
+
+
+[Readme](../README.md)

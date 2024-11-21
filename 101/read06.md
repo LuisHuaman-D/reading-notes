@@ -15,3 +15,7 @@
 
 ## ¿Qué comando usarías en la terminal para listar todos los archivos, incluidos los archivos ocultos, en un directorio de Linux o macOS? Explica qué significan los parámetros utilizados en el comando
 * De acuerdo con la documentación debemos utilizar el comando **ls -a**
+
+
+
+[Readme](../README.md) 

@@ -10,3 +10,6 @@ Mediante atributos
 
 ## ¿Por qué es importante usar etiquetas semánticas?
 Para ser procesados correctamente por motores de busqueda obteniendo un mejor SEO,  y para también ser leidos adecuadamente por herramientas como la IA.
+
+
+[Readme](../README.md)
