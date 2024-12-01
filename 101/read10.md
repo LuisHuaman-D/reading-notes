@@ -6,7 +6,7 @@ El control de flow en ciertos lenguajes de programación como en js son el orden
 Una función es un subprograma que puede ser llamado por código externo o interno en caso de recursión a la función. Se pueden pasar valores a una función y estas pueden devolver un valor. 
 
 ## ¿Cuántas veces se ejecutará un bucle “while”?
-Se ejecuta hasta que una condición se cumpla. Si una condición devuelve *true* se ejecuta la unstrución y cuando devulva false esta se detiene.
+Se ejecuta hasta que una condición se cumpla. Si una condición devuelve **true** se ejecuta la instrucción y cuando devuelva **false** esta se detiene.
 
 ## ¿Qué método usarías para agregar un elemento al final de un array y cómo se utiliza?
 
