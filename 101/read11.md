@@ -32,3 +32,5 @@ El siguiente código nos permite seleccionar un id y cambiarlo de fondo.
 ```let cambiarFondo = document.getElementById("pruebas");``` 
 ```cambiarFondo.style.backgroundColor = "red";``` 
  
+
+ [Readme](../README.md)
